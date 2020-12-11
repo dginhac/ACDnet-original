@@ -12,7 +12,7 @@ Y. Liu, F. Yang, and D. Ginhac, “ACDnet: An Action Detection network for real-
 ## Download code
 For reproducibility purpose, codes will be available soon.
 
-[ACDnet pipeline](images/pipeline.jpg)
+![ACDnet pipeline](images/pipeline.jpg)
 
 ## Abstract 
 Interpreting human actions requires understanding the spatial and temporal context of the scenes. State-of-the-art action detectors based on Convolutional Neural Network (CNN) have demonstrated remarkable results by adopting two-stream or 3D CNN architectures. However, these methods typically operate in a non-real-time, ofﬂine fashion due to system complexity to reason spatio-temporal information. Consequently, their high computational cost is not compliant with emerging real-world scenarios such as service robots or public surveillance where detection needs to take place at resource-limited edge devices. 
@@ -29,7 +29,7 @@ To the best of our knowledge, this is the first attempt applying feature approxi
 
 Experiments conducted on the public benchmark datasets UCF-24 and JHMDB-21 demonstrate that ACDnet, when integrated with the SSD detector, can robustly achieve detection well above real-time (75 FPS). At the same time, it retains reasonable accuracy (70.92 and 49.53 frame mAP) compared to other top-performing methods using far heavier conﬁgurations. 
 
-[ACDnet results](images/results.jpg)
+![ACDnet results](images/results.jpg)
 
 
 
