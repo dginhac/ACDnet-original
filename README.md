@@ -6,8 +6,9 @@ ACDnet is Action Detection network for real-time edge computing based on flow-gu
 
 ACDnet has been submitted to Pattern Recognition Letters in July 2020 and a revised manuscript has been sent in dec 2020.
 
-Y. Liu, F. Yang, and D. Ginhac, “ACDnet: An Action Detection network for real-time edge computing based on flow-guided feature approximation and memory aggregation”, Submitted to Pattern Recognition Letters, Special Issue on Advances on Human Action, Activity and Gesture Recognition (AHAAGR)
+Y. Liu, F. Yang, and D. Ginhac, “ACDnet: An Action Detection network for real-time edge computing based on flow-guided feature approximation and memory aggregation”, Submitted to Pattern Recognition Letters, Special Issue on Advances on Human Action, Activity and Gesture Recognition (AHAAGR), Volume 145, 2021, Pages 118-126,
 
+https://doi.org/10.1016/j.patrec.2021.02.001
 
 ## Download code
 For reproducibility purpose, codes will be available soon.
